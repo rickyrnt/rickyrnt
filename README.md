@@ -12,7 +12,7 @@ In the past I have used Java, C#, and C++ for projects, and am currently learnin
 
 ## And What Projects Have You Done
 
-I was programming lead for my high school FRC robotics team, and am a current member of CWRUbotix.
+I was programming lead for my high school FRC robotics team, and am a current member of [CWRUbotix](https://github.com/cwruRobotics).
 I also participated in the 2022 Qiskit Fall Fest, helping to create a 
 [quantum solution to finding G-Code paths for laser cutters](https://github.com/rpitasky/qiskit-gcode-path-optimization).
 
