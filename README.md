@@ -16,7 +16,7 @@ I was programming lead for my high school FRC robotics team, and am a current me
 I also participated in the 2022 Qiskit Fall Fest, helping to create a 
 [quantum solution to finding G-Code paths for laser cutters](https://github.com/rpitasky/qiskit-gcode-path-optimization).
 
-My personal projects include [this music vizualiser](https://youtu.be/Lm6FAdxGNP4) for a song I wrote.
+My personal projects include [this music visualizer](https://youtu.be/Lm6FAdxGNP4) for a song I wrote.
 The vizualiser was written in C++ utilizing OpenFrameworks to process MIDI and audio data.
 
 I am currently coding VST audio processing plugins Morsalyzer and Morsinator, which are intended to
