@@ -3,12 +3,12 @@ But you can call me Rick Yrnt if you want to save yourself a few syllables!
 
 ## Who Are You
 
-I am a freshman at Case Western Reserve University studying Engineering Physics with a concentration in Computer Engineering. 
+I am a sophomore at Case Western Reserve University studying Engineering Physics with a concentration in Computer Engineering. 
 I am also interested in game development, audio development, and music.
 
 ## Ok What Do You Know About Coding
 
-In the past I have used Java, C#, and C++ for projects, and am currently learning to use Python and C!
+In the past I have used Java, C#, C, Python and C++ for projects!
 
 ## And What Projects Have You Done
 
