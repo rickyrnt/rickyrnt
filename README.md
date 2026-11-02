@@ -3,12 +3,13 @@ But you can call me Rick Yrnt if you want to save yourself a few syllables!
 
 ## Who Are You
 
-I am a sophomore at Case Western Reserve University studying Engineering Physics with a concentration in Computer Engineering. 
+I am a senior at Case Western Reserve University studying Computer Engineering and Physics.
 I am also interested in game development, audio development, and music.
 
 ## Ok What Do You Know About Coding
 
-In the past I have used Java, C#, C, Python and C++ for projects!
+In the past I have used Java, C#, C, Lua, Python and C++ for projects!
+I am also a NixOS user and package much of my work after 2025 with Nix.
 
 ## And What Projects Have You Done
 
@@ -18,9 +19,6 @@ I also participated in the 2022 Qiskit Fall Fest, helping to create a
 
 My personal projects include [this music visualizer](https://youtu.be/Lm6FAdxGNP4) for a song I wrote.
 The vizualiser was written in C++ utilizing OpenFrameworks to process MIDI and audio data.
-
-I am currently coding VST audio processing plugins Morsalyzer and Morsinator, which are intended to
-streamline using morse code in music production!
 
 ## Contact Me
 
